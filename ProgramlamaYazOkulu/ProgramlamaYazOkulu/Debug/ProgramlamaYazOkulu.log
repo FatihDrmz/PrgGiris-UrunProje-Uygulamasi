@@ -1,0 +1,5 @@
+﻿  ProgramlamaYazOkulu.cpp
+C:\Users\PC\Desktop\C++\C++ Proje\ProgramlamaYazOkulu\ProgramlamaYazOkulu\ProgramlamaYazOkulu.cpp(211,36): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\PC\Desktop\C++\C++ Proje\ProgramlamaYazOkulu\ProgramlamaYazOkulu\ProgramlamaYazOkulu.cpp(396,44): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\PC\Desktop\C++\C++ Proje\ProgramlamaYazOkulu\ProgramlamaYazOkulu\ProgramlamaYazOkulu.cpp(602,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ProgramlamaYazOkulu.vcxproj -> C:\Users\PC\Desktop\C++\C++ Proje\ProgramlamaYazOkulu\Debug\ProgramlamaYazOkulu.exe

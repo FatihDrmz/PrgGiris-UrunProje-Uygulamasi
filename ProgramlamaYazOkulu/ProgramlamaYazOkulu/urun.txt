@@ -1,0 +1,15 @@
+
+1 35 45 laminant agt kullanilmis 2
+2 20 50 cimento cimsa kullanilmis 1
+3 40 95 demir isdemir kullanilmis 1
+4 95 20 kablo seval kullanilmis 3
+5 55 10 fayans vitra kullanilmamis 0
+7 60 5 boru firatpen kullanilmis 2
+8 10 85 pencere winsa kullanilmis 3
+9 2 100 celikkapi sur kullanilmis 2
+10 3 55 avize caploonba kullanilmamis 0
+11 95 15 kiremit osmanli kullanilmis 1
+12 10 45 iccepheboya polisan kullanilmis 2
+13 20 45 discepheboya marshall kullanilmis 3
+14 25 15 alcipan dalsan kullanilmis 1
+15 20 15 siva newkim kullanilmamis 01 1 2 a f 2 3

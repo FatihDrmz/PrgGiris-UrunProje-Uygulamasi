@@ -1,0 +1,10 @@
+1 yaylaevleri sinpas avni ahmet verilmis 2 450
+2 seyransehir kiptas aysegul fatih verilmis 3 600
+3 agakonaklari agaoglu ali selim verilmemis 0 0
+4 sultankoskleri soyak hasan huseyin verilmis 1 200
+5 altinvadi suryapi enes salih verilmis 2 350
+6 kahvederesi yesilinsaat emir engin verilmis 3 100
+7 atakoyevleri durmazlar fatih mehmet verilmis 2 950
+8 cevizlibag feryapi veli kemal verilmemis 0 0
+9 dogusehir ukrainsaat kerem kadir verilmis 1 300
+10 gulistankonaklari ozyurtlar ahmet hasan verilmemis 0 0
